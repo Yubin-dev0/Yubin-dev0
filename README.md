@@ -1,6 +1,6 @@
 
 
-# Hi there 👋 I'm Yubin
+# Hi there 👋 I'm Yubin 🇰🇷 (Korea)
 
 I'm an undergraduate student majoring in **Information & Communications Engineering** at **Hankuk University of Foreign Studies (HUFS)**.  
 I’m passionate about **embedded systems, robotics, and AI automation**, and I’m building hands-on projects with STM32 and real-time systems.
