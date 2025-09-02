@@ -12,10 +12,6 @@ I’m passionate about **embedded systems, robotics, and AI automation**, and I�
 - Building portfolio projects step by step  
 - Preparing for a career as an Embedded Software Engineer  
 
-### 📂 Featured Projects
-- [Polling Button Toggle](https://github.com/Yubin-dev0/projects/polling_button_toggle) – Simple button-controlled LED toggle using STM32  
-- [Interrupt Version](https://github.com/Yubin-dev0/interrupt-version) – External interrupt demo with STM32  
-
 ### 📫 How to reach me
 - GitHub: [@Yubin-dev0](https://github.com/Yubin-dev0)
 - Mail: shinyoobin8@gmail.com
