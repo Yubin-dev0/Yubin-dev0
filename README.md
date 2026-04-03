@@ -1,21 +1,14 @@
 
 
-# Hi there 👋 I'm Yubin 🇰🇷 (Korea)
+Hi, I'm Yubin 🇰🇷
+Undergraduate in Information & Communications Engineering at HUFS.
+Interested in embedded systems, robotics, and AI automation.
+Currently working on
 
-I'm an undergraduate student majoring in **Information & Communications Engineering** at **Hankuk University of Foreign Studies (HUFS)**.  
-I’m passionate about **embedded systems, robotics, and AI automation**, and I’m building hands-on projects with STM32 and real-time systems.
+Embedded C with STM32 (GPIO, UART, RTOS)
+Building a portfolio toward a career in embedded software
 
----
+Contact
 
-### 🔭 Current Focus
-- Practicing embedded C with STM32 (GPIO, UART, RTOS basics)  
-- Building portfolio projects step by step  
-- Preparing for a career as an Embedded Software Engineer  
-
-### 📫 How to reach me
-- GitHub: [@Yubin-dev0](https://github.com/Yubin-dev0)
-- Mail: shinyoobin8@gmail.com
-
----
-
-✨ *Thanks for visiting my profile!*  
+GitHub: @Yubin-dev0
+Email: shinyoobin8@gmail.com
